@@ -15,6 +15,7 @@
 //  - Make the speed of the images (posters) diplaying in the table faster
 //  - Make the UI less bland, add more slight color
 //  - Add App Icon
+//  - Launch a beta release first
 
 import UIKit
 
